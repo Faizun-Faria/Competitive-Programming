@@ -12,14 +12,18 @@
 
 ## STL
 * [ARRAY](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/ARRAY.md)
-* [Vector]
-* [Stack]
-* [Queue]
-* [Deque]
-* [Map]()
-* [Set](https://github.com/Faizun-Faria/Programming-Contest/blob/master/Set.cpp)
+* [Deque](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/DEQUE.md)
+* [Map](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/MAP.md)
+* [Pair](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/PAIR.md)
+* [Priority Queue](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/PRIORITY_QUEUE.md)
+* [Queue](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/QUEUE.md)
+* [Set](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/SET.md)
+* [Stack](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/STACK.md)
+* [String](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/STRING.md)
+* [Vector](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/VECTOR.md)
+* [Vector_Pair](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/VECTOR_PAIR.md)
+* [Convert_Data_Type](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/CONVERT_DATA_TYPE.md)
 * [Unordered Set]
-* [Pair]
 * [Struct]
 * [Ordered Set]
 * [Upperbound] 
