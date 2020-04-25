@@ -1,0 +1,9 @@
+### BINARY SEARCH
+* Vector
+```
+binary_search(v.begin(), v.end(), valueThatWeAreSearching); //return true or false  
+```
+* Array ( Must be sorted before )
+```
+binary_search(arrayName, arrayName+arraySize, valueThatWeAreSearching);
+```
