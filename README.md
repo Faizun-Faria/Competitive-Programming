@@ -39,7 +39,7 @@
 ## Number Theory
 * GCD
 * LCM
-* Prime Generator (Seive of Erathosthenos)
+* [Prime Seive](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Graph%20Theory/primeSeive.cpp)
 * Modular Arithmetic
 * Big Mod
 * Number of Divisor
@@ -51,7 +51,8 @@
 * Graph Representation
 * BFS
 * BFS on Grid
-* DFS
+* [DFS](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Graph%20Theory/dfs.cpp)
+* [DFS_HEIGHT](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Graph%20Theory/dfsLevel.cpp) 
 * Top Sort
 * Topological Sort
 * Strongly Connected Component
@@ -84,6 +85,10 @@
 * Merge Sort
 * Quick Sort
 * Heap Sort
+
+## Other
+* [Input_Output](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Basic/INPUT_OUTPUT.md)
+* [BASIC_INFO](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Basic/BASIC_INFO.md)
 
 ## Greedy Method
 * Two Pointer
