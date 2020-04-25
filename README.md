@@ -11,7 +11,9 @@
 * Binary Index Tree
 
 ## STL
+* [ARITHMETIC](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/ARITHMETIC.md)
 * [ARRAY](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/ARRAY.md)
+* [BINARY_SEARCH](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/BINARY_SEARCH%2Cmd)
 * [Deque](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/DEQUE.md)
 * [Map](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/MAP.md)
 * [Pair](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/PAIR.md)
@@ -24,10 +26,9 @@
 * [Vector_Pair](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/VECTOR_PAIR.md)
 * [Convert_Data_Type](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/CONVERT_DATA_TYPE.md)
 * [Unordered Set]
-* [Struct]
+* [Struct](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/STRUCT.md)
 * [Ordered Set]
-* [Upperbound] 
-* [Lowerbound]
+* [Upperbound & Lowerbound](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/UPPER_LOWER_BOUND.md)
 
 ## Searching Algorithm
 * Linear Search
