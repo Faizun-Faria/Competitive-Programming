@@ -29,3 +29,23 @@ int main(){
   //code
 }
 ```
+
+## Things To Know
+
+* Array size 10^7 if declared globally
+* Array size 10^6 if declared locally
+* 1e4 means 10000
+* Use "\n" instead of "endl"
+* Big Integer is not important at all
+* Highest array size 10^6
+* Integer range 2 . 10^9
+* Long long range 9 . 10^18
+* String can take more than 10^18
+* Pow should be avoided because it creates precision problem
+* Define array size 5 index more than it's needed
+* PI is acos(0.0)
+* 1<<1 means 
+* Bitwise operation is faster
+* To find out the divisors of a number, we need to run a loop upto root of that number
+* Loop can run upto 10^8 
+* Python is good for big number manipulation
