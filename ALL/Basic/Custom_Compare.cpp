@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define open freopen("input.txt", "r", stdin)
 bool compare(pair<int,int>n1, pair<int, int>n2){
     if(n1.first>n2.first) return true;
     else if(n1.first==n2.first){
