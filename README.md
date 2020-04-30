@@ -89,6 +89,7 @@
 ## Other
 * [Input_Output](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Basic/INPUT_OUTPUT.md)
 * [BASIC_INFO](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Basic/BASIC_INFO.md)
+* [Custom Compare](https://github.com/Faizun-Faria/Competitive-Programming/edit/master/ALL/Basic/Custom_Compare.cpp)
 
 ## Greedy Method
 * Two Pointer
