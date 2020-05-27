@@ -13,16 +13,6 @@ int dy[]= {2,-2,1,-1,2,-2,1,-1};
 int vis[N][N];
 int depth[N][N];
 
-
-void print2(){
-    for(int i=0; i<row; i++){
-        for(int j=0;j<col; j++){
-            cout<<depth[i][j]<<" ";
-        }
-        cout<<"\n";
-    }
-     cout<<"\n";
-}
 void bfs(int R, int C, int COU) {
     for(int i=0; i<8; i++) {
         int xx= R+dx[i];
@@ -54,25 +44,8 @@ void bfs(int R, int C, int COU) {
         bfs(X.front(),Y.front(),COU);
     }
 }
-void print() {
-    for(int j=0; j<row; j++) {
-        for(int k = 0; k<col; k++) {
-            cout<<total[j][k]<<" ";
-        }
-        cout<<endl;
-    }
-    cout<<endl;
-    for(int j=0; j<row; j++) {
-        for(int k = 0; k<col; k++) {
-            cout<<moves[j][k]<<" ";
-        }
-        cout<<endl;
-    }
-}
-
 
 int main() {
-    freopen("input.txt", "r", stdin);
     int t;
     cin>>t;
     string str;
@@ -103,7 +76,6 @@ int main() {
             memset(depth,0,sizeof(depth));
             memset(vis,0,sizeof(vis));
         }
-        print();
     }
 
 }
