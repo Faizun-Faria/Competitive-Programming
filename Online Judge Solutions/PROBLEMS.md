@@ -10,15 +10,14 @@
 
 # BINARY SEARCH AND TERNARY SEARCH
 
-* loj 1140 - Ternary 
-loj 1240 - Ternary 
+* [Ternary]loj 1140
+* [Ternary]loj 1240
 * [Ternary](https://toph.co/p/life-is-dark-and-full-of-error)
-https://codeforces.com/problemset/problem/1354/B - easy bs 
-https://codeforces.com/problemset/problem/1335/C - easy bs
-https://codeforces.com/contest/1250/problem/L - medium bs
-1360H - Binary Median - kth integer 
-https://codeforces.com/contest/1260/problem/D - hard bs
-https://codeforces.com/contest/1010/problem/A - hard bs (double) 
-https://codeforces.com/problemset/problem/1263/C - hard bs (floor) 
-https://codeforces.com/problemset/problem/1251/D - hard bs
-
+* [Easy Binary_Search](https://codeforces.com/problemset/problem/1354/B) 
+* [Easy Binary_Search](https://codeforces.com/problemset/problem/1335/C)
+* [Medium Binary_Search](https://codeforces.com/contest/1250/problem/L)
+* [Binary_Median]1360H - Binary Median - kth integer 
+* [Hard Binary_Search](https://codeforces.com/contest/1260/problem/D)
+* [Hard Binary_Search Double](https://codeforces.com/contest/1010/problem/A) 
+* [Hard Binary_Search Floor](https://codeforces.com/problemset/problem/1263/C) 
+* [Hard Binary_Search](https://codeforces.com/problemset/problem/1251/D)
