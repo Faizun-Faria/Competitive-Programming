@@ -91,6 +91,9 @@ int setbit(int mask, int k){
 ```
 ### Reset Bit
 ```
+* Making a bit 0
+```
+```
 int resetbit(int mask, int k){
   if(checkbit(mask,k)){
     mask = flipbit(mask,k);
