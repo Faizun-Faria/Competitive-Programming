@@ -115,3 +115,7 @@ for(int mask=0; mask(1<<n); mask++){
     if(tot_weight<=Capacity) ans=max(ans,tot_price)
 }
 ```
+```
+bitmask
+0 base
+```
