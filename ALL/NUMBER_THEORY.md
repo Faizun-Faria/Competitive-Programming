@@ -101,3 +101,17 @@ int resetbit(int mask, int k){
   return mask;
 }
 ```
+### All possible subset (0/1 knapsack)
+```
+int n = 22; //max 22
+for(int mask=0; mask(1<<n); mask++){
+    int tot_price=0, tot_weight=0;
+    for(int k=0; k<n; k++){
+        if(checkbit(mask,k)){
+            tot_price+=p[k];
+            tot_weight+=w[k];
+        }
+    }
+    if(tot_weight<=Capacity) ans=max(ans,tot_price)
+}
+```
