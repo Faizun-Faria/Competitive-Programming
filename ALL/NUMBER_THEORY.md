@@ -43,12 +43,23 @@ a^b^c = 1110
 ```
 * Right shifting any number 1 digit means diving the number with 2 (floor)
 ```
-
+```
+int a = 5;
+int b = a>>1; //2
+```
 ### Left Shift
 ```
-* 1<<K
+* 1<<n
 * Left shifting any number 1 digit means multiplying the number with 2
 * Left shifting ,any number, x k digit(s) means multiplying the number with x*2^(k) {x into two to the power k}
+```
+``` 
+* Multiplying by 2
+int a = 7;
+int b = a<<1; //14
+* Power of 2
+int a = 3;
+int b = 1<<a; //8
 ```
 ### Checking if a bit is 1 or 0
 ```
