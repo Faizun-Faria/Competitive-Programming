@@ -119,3 +119,43 @@ for(int mask=0; mask(1<<n); mask++){
 bitmask
 0 base
 ```
+```
+* If N = 3 ( 0...2^N-1) (0....7) ---> 2^N(8) possibilities 
+000 --> {}
+001 --> {0}
+010 --> {1}
+011 --> {0,1}
+100 --> {2}
+101 --> {2,0}
+110 --> {2,1}
+111 --> {2,1,0}
+```
+### Prefix XOR
+```
+for (i=1:n){
+    prefix[i] = prefix[i-1]^arr[i];
+}
+* keep 0 in the first index of the array
+ans = prefix[R]^prefix[L-1];
+```
+```
+int arr [] = {a1,a2,a3,a4,a5,a6}
+Assuming L = 3 --> (a3) and R = 6 ---> (a6)
+ans = prefix[a2]^prefix[a6] = (a1^a2)^(a1^a2^a3^a4^a5^a6) = (a1^a1)^(a2^a2)^(a3^a4^a5^a6) = 0^0^(a3^a4^a5^a6) = (a3^a4^a5^a6)
+```
+### Sum of XOR of all possible pairs
+```
+for(int i=1; i<=n; i++){
+    for(int j=i+1; j<=n; j++){
+        ans+= a[i]^a[j];
+    }
+}
+```
+```
+Binary sequence = 1 0 1 0 1
+ans = 1+0+1+0+1+0+1+.... = 6
+* No. of zero(s) X No of one(s) 
+```
+```
+Given Sequence = a1,a2,a3,a4,....aN
+
