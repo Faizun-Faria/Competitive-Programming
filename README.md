@@ -14,8 +14,11 @@
 * [ARITHMETIC](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/ARITHMETIC.md)
 * [ARRAY](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/ARRAY.md)
 * [BINARY_SEARCH](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/BINARY_SEARCH%2Cmd)
+* [Convert_Data_Type](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/CONVERT_DATA_TYPE.md)
 * [Deque](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/DEQUE.md)
 * [Map](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/MAP.md)
+* [Next Permutation](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/next_permutation.cpp)
+* [Ordered Set]
 * [Pair](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/PAIR.md)
 * [Priority Queue](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/PRIORITY_QUEUE.md)
 * [Queue](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/QUEUE.md)
@@ -24,10 +27,8 @@
 * [String](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/STRING.md)
 * [Vector](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/VECTOR.md)
 * [Vector_Pair](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/VECTOR_PAIR.md)
-* [Convert_Data_Type](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/CONVERT_DATA_TYPE.md)
-* [Unordered Set]
 * [Struct](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/STRUCT.md)
-* [Ordered Set]
+* [Unordered Set]
 * [Upperbound & Lowerbound](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/STL/UPPER_LOWER_BOUND.md)
 
 ## Searching Algorithm
