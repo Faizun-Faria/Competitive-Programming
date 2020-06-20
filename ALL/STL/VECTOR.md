@@ -82,3 +82,9 @@ v.erase( unique( v.begin() , v.end() ) , v.end() );
 ```
 min_element( v.begin() , v.end() );
 ````
+* To access all the elements serially without knowing index
+```
+for(int v:G(u)){
+    cout<<v<<" ";	
+}
+```
