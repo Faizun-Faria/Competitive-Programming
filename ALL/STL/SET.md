@@ -10,6 +10,13 @@ for(itr = st.begin(); itr!=st.end(); itr++){
 	cout<<"Element "<<*itr<<endl;
 }
 ```
+* To serially access all the elements
+```
+set <string> st;
+for(int x:st){
+    cout<<x<<" ";
+}
+```
 * Sort
 ```
 struct cmp {
