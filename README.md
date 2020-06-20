@@ -49,7 +49,7 @@
 
 ## Graph Theory
 * Graph Representation
-* BFS
+* [BFS](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Graph%20Theory/bfs.md)
 * BFS on Grid
 * [DFS](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Graph%20Theory/dfs.md)
 * [DFS_HEIGHT](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Graph%20Theory/dfsLevel.cpp) 
