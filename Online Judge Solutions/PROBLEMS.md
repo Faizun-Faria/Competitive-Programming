@@ -11,7 +11,9 @@
 # BINARY SEARCH AND TERNARY SEARCH
 
 * [Ternary LightOJ-1146](http://www.lightoj.com/volume_showproblem.php?problem=1146)
+[Solve](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/Online%20Judge%20Solutions/Geometry/LightOJ-1146.cpp)
 * [Ternary LightOJ-1240](http://www.lightoj.com/volume_showproblem.php?problem=1240)
+[Solve](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/Online%20Judge%20Solutions/Geometry/LightOJ-1240.cpp)
 * [Ternary Toph](https://toph.co/p/life-is-dark-and-full-of-error)
 * [Easy Binary_Search CF](https://codeforces.com/problemset/problem/1354/B) 
 * [Easy Binary_Search CF](https://codeforces.com/problemset/problem/1335/C)
