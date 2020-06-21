@@ -7,9 +7,7 @@
  b = 1010101
 a&b= 0010001
 ```
-```
 * If only one bit is 0 then then the AND of the bits will be 0
-```
 
 ### OR
 ```
@@ -18,9 +16,7 @@ a&b= 0010001
  b = 1010101
 a|b= 0010001
 ```
-```
 * If only one bit is 1 then then the AND of the bits will be 1
-```
 ### XOR
 ```
 1^1=0, 1^0=1, 0^1=1, 0^0=1
@@ -34,25 +30,19 @@ a^b= 1000100
     c = 0110
 a^b^c = 1110
 ```
-```
 * If number of 1 is odd then XOR value will be 1
 * If number of 1 is even then XOR value will be 0
-```
-
 ### Right Shift(Floor Division)
-```
 * Right shifting any number 1 digit means diving the number with 2 (floor)
-```
 ```
 int a = 5;
 int b = a>>1; //2
 ```
 ### Left Shift
-```
 * 1<<n
 * Left shifting any number 1 digit means multiplying the number with 2
-* Left shifting ,any number, x k digit(s) means multiplying the number with x*2^(k) {x into two to the power k}
-```
+* Left shifting ,any number, x k digit(s) means multiplying the number with x X 2^(k) {x into two to the power k}
+
 ``` 
 * Multiplying by 2
 int a = 7;
