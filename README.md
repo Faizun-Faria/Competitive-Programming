@@ -33,7 +33,7 @@
 
 ## Searching Algorithm
 * Linear Search
-* Binary Search(https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Searhing%20Algorithm/binarySearch.cpp)
+* [Binary Search](https://github.com/Faizun-Faria/Competitive-Programming/blob/master/ALL/Searhing%20Algorithm/binarySearch.cpp)
 * Bisection Method
 * Ternary Search
 
