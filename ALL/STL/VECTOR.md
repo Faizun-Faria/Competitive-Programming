@@ -88,3 +88,27 @@ for(int v:G(u)){
     cout<<v<<" ";	
 }
 ```
+* Resize
+```
+vector<int> v = {1,2,3,4,5,6};
+v.resize(5)
+```
+{1,2,3,4,5}
+```
+vector<int> v = {1,2};
+v.resize(5)
+```
+{1,2,0,0,0}
+* 2D vector
+Empty list of list
+```
+vector<vector<class>> myVector;
+```
+n empty list is created
+```
+vector<vector<class>> myVector(n);
+```
+n list where each one is of size m. m objects will be initialized with 0.
+```
+vector<vector<class>> myVector(n, vector<class>(m));
+```
